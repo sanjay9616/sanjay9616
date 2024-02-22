@@ -1,5 +1,5 @@
 👋 Hello,<br/>
-👨🏻‍💻 I am a Full Stack ( MEAN | MERN + NextJS ) Web Developer who loves to solve challenging problems.
+👨🏻‍💻 I am a Full Stack ( MEAN | MERN + NextJS ) Web Developer who loves to solve challenging problems. </br>
 I am always on the lookout for new opportunities that can help me enrich my experience and learning.
 
 - 👨 Data structures and Algorithms.
