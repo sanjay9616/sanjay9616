@@ -46,21 +46,32 @@
 
 <p align="left">
     <a href="https://www.w3schools.com/css/" target="_blank" title="CSS">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
     </a>
-    <a href="https://reactjs.org/" target="_blank" title="SCSS">
-        <img src="https://mrmlnc.gallerycdn.vsassets.io/extensions/mrmlnc/vscode-scss/0.10.0/1620496769738/Microsoft.VisualStudio.Services.Icons.Default" alt="reactjs" width="40" height="40"/>
+    <a href="https://docs.gitlab.com/ee/development/fe_guide/style/scss.html" target="_blank" title="SCSS">
+        <img src="https://mrmlnc.gallerycdn.vsassets.io/extensions/mrmlnc/vscode-scss/0.10.0/1620496769738/Microsoft.VisualStudio.Services.Icons.Default" alt="scss" width="40" height="40"/>
     </a>
     <a href="https://getbootstrap.com/" target="_blank" title="Bootatrap">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="nextjs" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     </a>
     <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" alt="nextjs" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" alt="tailwind-css" width="40" height="40"/>
     </a>
     <a href="https://material.angular.io/" target="_blank" title="Angular Material">
         <img src="https://uploads-ssl.webflow.com/621765eac54e9f270915cf4f/62274c4c390ba687a626b18a_download__1_.png" alt="nextjs" width="40" height="40"/>
     </a>
     <a href="https://mui.com/material-ui/" target="_blank" title="Material-UI">
-        <img src="https://mui.com/static/logo.png" alt="nextjs" width="40" height="40"/>
+        <img src="https://mui.com/static/logo.png" alt="meterial-ui" width="40" height="40"/>
+    </a>
+</p>
+
+<h3 align="left">Back End Development:</h3>
+
+<p align="left">
+    <a href="https://expressjs.com/" target="_blank" title="Express JS">
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="expressjs" width="40" height="40"/>
+    </a>
+    <a href="https://nodejs.org/en" target="_blank" title="Node JS">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     </a>
 </p>
