@@ -20,10 +20,10 @@
     <a href="https://www.linkedin.com/in/sanjay-kumar-83a156264/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay-kumar-83a156264" height="30" width="40" />
     </a>
-    <a href="https://leetcode.com/sanjay12345678/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjay12345678" height="30" width="40" />
+    <a href="https://leetcode.com/sanjay12345678/" target="blank" margin-left="1rem">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjay12345678" height="30" width="40"/>
     </a>
-    <a href="https://www.codechef.com/users/sanjay12345678" target="blank">
+    <a href="https://www.codechef.com/users/sanjay12345678" target="blank" margin-left="1rem">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" alt="sanjay12345678" height="30" width="40" />
     </a>
 </p>
