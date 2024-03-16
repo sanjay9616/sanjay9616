@@ -75,3 +75,31 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     </a>
 </p>
+
+<h3 align="left">Databases:</h3>
+
+<p align="left">
+    <a href="https://www.mongodb.com/" target="_blank" title="Mongo DB">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" title="My SQL">
+        <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="mysql" width="40" height="40"/>
+    </a>
+</p>
+
+<h3 align="left">Languages:</h3>
+
+<p align="left">
+    <a href="https://www.python.org/" target="_blank" title="Python">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+        <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://www.typescriptlang.org/docs/" target="_blank" title="TypeScript">
+        <img src="https://w7.pngwing.com/pngs/74/362/png-transparent-typescript-plain-logo-icon-thumbnail.png" alt="typescript" width="40" height="40"/>
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" title="C">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    </a>
+</p>
