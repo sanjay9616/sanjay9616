@@ -32,13 +32,13 @@
 
 <p align="left">
     <a href="https://angular.io/" target="_blank" title="Angular JS">
-        <img src="https://angular.io/assets/images/logos/angular/shield-large.svg" alt="angularjs" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angularjs" />
     </a>
     <a href="https://reactjs.org/" target="_blank" title="React JS">
-        <img src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg" alt="reactjs" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
     </a>
     <a href="https://nextjs.org/" target="_blank" title="Next JS">
-        <img src="https://camo.githubusercontent.com/39791c3e4c4387b8b913628a8f258768ea3a4a71fc815ced2219f81c22c71f6a/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6c696768745f6261636b67726f756e642e706e67" alt="nextjs" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/>
     </a>
 </p>
 
