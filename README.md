@@ -46,22 +46,19 @@
 
 <p align="left">
     <a href="https://www.w3schools.com/css/" target="_blank" title="CSS">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
-    </a>
-    <a href="https://docs.gitlab.com/ee/development/fe_guide/style/scss.html" target="_blank" title="SCSS">
-        <img src="https://mrmlnc.gallerycdn.vsassets.io/extensions/mrmlnc/vscode-scss/0.10.0/1620496769738/Microsoft.VisualStudio.Services.Icons.Default" alt="scss" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
     </a>
     <a href="https://getbootstrap.com/" target="_blank" title="Bootatrap">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
     </a>
     <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" alt="tailwind-css" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind-css" />
     </a>
     <a href="https://material.angular.io/" target="_blank" title="Angular Material">
-        <img src="https://uploads-ssl.webflow.com/621765eac54e9f270915cf4f/62274c4c390ba687a626b18a_download__1_.png" alt="nextjs" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white" alt="angular-material" />
     </a>
     <a href="https://mui.com/material-ui/" target="_blank" title="Material-UI">
-        <img src="https://mui.com/static/logo.png" alt="meterial-ui" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="meterial-ui" />
     </a>
 </p>
 
