@@ -26,6 +26,9 @@
     <a href="https://www.codechef.com/users/sanjay12345678" target="blank" >
         <img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="sanjay12345678" />
     </a>
+    <a href="https://www.instagram.com/sanjay_sharma52/" target="blank" >
+        <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sanjay_sharma52" />
+    </a>
 </p>
 
 <h3 align="left">Front End Development:</h3>
