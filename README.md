@@ -66,10 +66,10 @@
 
 <p align="left">
     <a href="https://expressjs.com/" target="_blank" title="Express JS">
-        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="expressjs" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
     </a>
     <a href="https://nodejs.org/en" target="_blank" title="Node JS">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
     </a>
 </p>
 
