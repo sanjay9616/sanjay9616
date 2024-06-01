@@ -38,6 +38,12 @@
     <a href="https://angular.io/" target="_blank" title="Angular JS">
         <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angularjs" />
     </a>
+    <a href="https://rxjs.dev/" target="_blank" title="RxJS">
+        <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" alt="angularjs" />
+    </a>
+    <a href="https://ngrx.io/guide/store" target="_blank" title="NgRx">
+        <img src="https://img.shields.io/badge/NgRx-BA2BD2.svg?style=for-the-badge&logo=NgRx&logoColor=white" alt="angularjs" />
+    </a>
     <a href="https://reactjs.org/" target="_blank" title="React JS">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
     </a>
