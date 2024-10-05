@@ -97,7 +97,7 @@
 
 # 💻 Tech Stack:
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjay9616&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="200"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay9616&theme=radical&hide_border=false" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay9616&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200"/>
